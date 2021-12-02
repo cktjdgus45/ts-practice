@@ -1,0 +1,27 @@
+{
+  "name": "ts-practice",
+  "version": "1.0.0",
+  "description": "practicing ts",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cktjdgus45/ts-practice.git"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cktjdgus45/ts-practice/issues"
+  },
+  "homepage": "https://github.com/cktjdgus45/ts-practice#readme"
+}
